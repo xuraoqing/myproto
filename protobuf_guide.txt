@@ -1,0 +1,4 @@
+Protobuf C版本
+1、	protoc-c：*.proto文件的编译器，将*.proto类型的文件转换为*.c和*.h文件。
+2、	protobuf-c:编译生成的*.c和*.h文件需要使用该库文件。
+3、	protoc-c编译器：该编译器在生成的时候需要用到C++的protobuf库。
