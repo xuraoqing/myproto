@@ -1,5 +1,5 @@
-﻿生成启动时间为 2016/6/30 12:04:38。
-     1>项目“E:\protobuf\protobuf-2.6.1\vsprojects\libprotoc.vcxproj”在节点 2 上(build 个目标)。
+﻿生成启动时间为 2016/7/1 13:48:48。
+     1>项目“E:\vcprj\protobuf\git\c++\protobuf-2.6.1\vsprojects\libprotoc.vcxproj”在节点 2 上(build 个目标)。
      1>InitializeBuildStatus:
          正在创建“Debug\libprotoc.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
        ClCompile:
@@ -29,7 +29,7 @@
          cpp_primitive_field.cc
          cpp_message_field.cc
          cpp_message.cc
-     1>e:\protobuf\protobuf-2.6.1\src\google\protobuf\compiler\cpp\cpp_message.cc(692): warning C4065: switch 语句包含“default”但是未包含“case”标签
+     1>e:\vcprj\protobuf\git\c++\protobuf-2.6.1\src\google\protobuf\compiler\cpp\cpp_message.cc(692): warning C4065: switch 语句包含“default”但是未包含“case”标签
          cpp_helpers.cc
          cpp_generator.cc
          cpp_file.cc
@@ -83,12 +83,12 @@
          Debug\java_shared_code_generator.obj
          Debug\java_string_field.obj
          Debug\python_generator.obj
-         libprotoc.vcxproj -> E:\protobuf\protobuf-2.6.1\vsprojects\Debug\libprotoc.lib
+         libprotoc.vcxproj -> E:\vcprj\protobuf\git\c++\protobuf-2.6.1\vsprojects\Debug\libprotoc.lib
        FinalizeBuildStatus:
          正在删除文件“Debug\libprotoc.unsuccessfulbuild”。
          正在对“Debug\libprotoc.lastbuildstate”执行 Touch 任务。
-     1>已完成生成项目“E:\protobuf\protobuf-2.6.1\vsprojects\libprotoc.vcxproj”(build 个目标)的操作。
+     1>已完成生成项目“E:\vcprj\protobuf\git\c++\protobuf-2.6.1\vsprojects\libprotoc.vcxproj”(build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:17.65
+已用时间 00:00:20.20
